@@ -2,8 +2,6 @@
 title: The Founding Documents of House Alderley
 ---
 
-# The Founding Documents of House Alderley
-
 See the aside about historical accuracy [here](historical-accuracy.html)
 
 For now, I'm going to refer to the house of the prince as House Everance. I've
@@ -11,7 +9,7 @@ done a basic internet search and can not find an actual name.
 
 ## Public Literature on House Alderley
 
-### [A tail of unity: Laurence and Jane Alderley-GoldenHorn](tale-of-unity.html)
+### [A Tale of Unity: Laurence and Jane Alderley-GoldenHorn](tale-of-unity.html)
 
 This book describes 
 
