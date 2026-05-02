@@ -16,3 +16,5 @@ cp "/tmp/pandoc-${PANDOC_VERSION}/bin/pandoc" "$INSTALL_DIR/pandoc"
 chmod +x "$INSTALL_DIR/pandoc"
 
 "$INSTALL_DIR/pandoc" --version
+
+PATH="$PWD/.bin:$PATH" make
