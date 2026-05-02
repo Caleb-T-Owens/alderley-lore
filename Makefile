@@ -1,10 +1,12 @@
+PAGES=index.html\
+      historical-accuracy.html\
+      tale-of-unity.html
+
 .PHONY: all
-all: index.html tale-of-unity.html
+all: $(PAGES)
 
-index.html: index.md styles.css
-	pandoc -f markdown -t html5 -o index.html -i index.md -c styles.css
+%.html: %.md style.css
+	pandoc --standalone -f markdown -t html5 -o $@ -i $< -c style.css
 
-tale-of-unity.html: tale-of-unity.md styles.css
-	pandoc -f markdown -t html5 -o tale-of-unity.html -i tale-of-unity.md -c styles.css
-
-
+clean:
+	rm $(PAGES)

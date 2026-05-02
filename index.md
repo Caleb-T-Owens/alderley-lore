@@ -1,4 +1,10 @@
+---
+title: The Founding Documents of House Alderley
+---
+
 # The Founding Documents of House Alderley
+
+See the aside about historical accuracy [here](historical-accuracy.html)
 
 For now, I'm going to refer to the house of the prince as House Everance. I've
 done a basic internet search and can not find an actual name.
